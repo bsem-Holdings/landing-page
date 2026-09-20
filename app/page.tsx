@@ -68,7 +68,7 @@ export default function Home() {
               className="link-card"
             >
               <h3>Horizon</h3>
-              <p>Apply to join our team!</p>
+              <p>Explore the online organization manager.</p>
             </a>
 
             <a 
