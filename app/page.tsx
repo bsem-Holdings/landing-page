@@ -5,13 +5,11 @@ export default function Home() {
     <div className="main-wrapper">
       <div className="container">
         
-        {/* HERO SECTION */}
         <section className="hero">
           <h1>
             Welcome to <span>bsem Holdings</span>
           </h1>
           <p>
-            {/* You can add a short subtitle here later if you want! */}
           </p>
           <a 
             href="https://www.roblox.com/communities/16435914/bsem#!/about" 
@@ -23,7 +21,6 @@ export default function Home() {
           </a>
         </section>
 
-        {/* ABOUT US SECTION */}
         <section className="section">
           <div className="section-header">
             <Info className="icon-brand" size={32} />
@@ -37,7 +34,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* QUICK LINKS SECTION */}
         <section className="section">
           <div className="section-header">
             <LinkIcon className="icon-brand" size={32} />
@@ -89,7 +85,6 @@ export default function Home() {
 
       </div>
 
-      {/* FOOTER SECTION */}
       <footer className="footer">
         <div className="container">
           <p>2026 © The bsem Holdings Group. All rights reserved.</p>
