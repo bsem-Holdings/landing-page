@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import "./globals.css"; // This line is required to load Tailwind and your colors
+import "./globals.css"; 
 
 export const metadata: Metadata = {
   title: "bsem Holdings",
