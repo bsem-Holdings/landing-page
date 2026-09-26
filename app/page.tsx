@@ -42,7 +42,7 @@ export default function Home() {
           
           <div className="links-grid">
             <a 
-              href="https://www.roblox.com/communities/16435914/bsem#!/about" 
+              href="/roblox" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="link-card"
@@ -52,7 +52,7 @@ export default function Home() {
             </a>
             
             <a 
-              href="https://discord.gg/ruuthkmJwE" 
+              href="/discord" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="link-card"
