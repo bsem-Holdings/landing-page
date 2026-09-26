@@ -23,6 +23,16 @@ const nextConfig: NextConfig = {
         destination: "https://docs.google.com/document/d/1sjgaYZDR_UCVm103F8LYPTuD0DTJaV98AHvPPlkuyFA/edit?usp=sharing",
         permanent: true,
       },
+      {
+        source: "/privacy",
+        destination: "https://docs.google.com/document/d/1-Ci8jLZ7jScRjDZ2Il4RBgXW6XBtnIFapRLsE2kUEhw/edit?usp=sharing",
+        permanent: true,
+      },
+      {
+        source: "/ndp",
+        destination: "https://docs.google.com/document/d/1abD3MlpD3gJHPjBenPFjUjsK-h8X-TKuhWDrzeUw3tM/edit?usp=sharing",
+        permanent: true,
+      },
     ];
   },
 };
